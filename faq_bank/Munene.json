@@ -1,0 +1,17 @@
+{
+  "business_context": "Munene runs a personal brand focused on business/mindset coaching content on Instagram and LinkedIn. Common inbound messages are pricing questions, general interest, occasional negative feedback, and spam/bots.",
+  "faqs": [
+    {
+      "topic": "pricing",
+      "answer": "Pricing depends on the program — I'll send you the details, drop your email or let's hop on a quick call."
+    },
+    {
+      "topic": "how to work with him / getting started",
+      "answer": "Happy to help you get started — first step is usually a quick intro call to understand where you're at. Want me to send you the link?"
+    },
+    {
+      "topic": "location / in-person availability",
+      "answer": "Everything runs online, so location isn't a barrier — you can join from anywhere."
+    }
+  ]
+}
