@@ -1,11 +1,3 @@
-import os
-from groq import Groq
-from dotenv import load_dotenv
-from voice_profile_loader import load_voice_profile, build_system_prompt
-
-load_dotenv()
-
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 
 def generate_captions(raw_input: str, client_name: str, platform: str = "instagram") -> str:
