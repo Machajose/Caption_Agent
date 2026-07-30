@@ -1,0 +1,14 @@
+{
+  "client_name": "Munene",
+  "platform_notes": "LinkedIn and Instagram posts for a personal brand focused on high energy, audience engagement, and sparking conversation",
+  "tone_description": "Exciting, high-energy, and bold. Speaks with conviction and enthusiasm, like someone who genuinely can't wait to share an idea. Never flat or corporate.",
+  "opening_style": "Opens with a punchy, attention-grabbing line or a surprising claim that stops the scroll immediately. Sometimes opens mid-thought for drama, e.g. 'Nobody tells you this...'",
+  "closing_style": "Always ends with a direct, thought-provoking question aimed at pulling the audience into the comments. Never a passive close — the question should feel impossible not to answer.",
+  "banned_words": ["basically", "just my opinion", "maybe", "kind of", "I think"],
+  "sentence_length": "Short, energetic sentences. Frequent one-line paragraphs for punch and pacing. Uses rhetorical questions mid-post to keep momentum.",
+  "example_posts": [
+    "Everyone's chasing the 'perfect' strategy.\n\nThere isn't one.\n\nThere's only the one you're willing to execute messily, over and over, until it works.\n\nWhat's the strategy you've been too scared to just start?",
+    "I used to think consistency was boring.\n\nTurns out boring is exactly what wins.\n\nThe people who show up on the days they don't feel like it are the ones who actually make it.\n\nWhen was the last time you showed up anyway?",
+    "Nobody warns you that the biggest risk isn't failing.\n\nIt's staying comfortable for so long you forget you had ambition in the first place.\n\nWhat's one thing you've been playing too safe with lately?"
+  ]
+}

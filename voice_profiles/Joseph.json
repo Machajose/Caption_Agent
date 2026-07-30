@@ -1,0 +1,14 @@
+{
+  "client_name": "Joseph Test Client",
+  "platform_notes": "LinkedIn posts for a crypto and blockchain education brand, targeting curious beginners and young professionals in Kenya interested in fintech",
+  "tone_description": "Confident but approachable. Explains complex ideas simply, like a knowledgeable friend, not a hype-driven crypto bro.",
+  "opening_style": "Often opens with a bold, simple statement or a relatable question. Never starts with 'Exciting news!' or generic hooks.",
+  "closing_style": "Ends with a soft, thought-provoking question or a one-line takeaway. Rarely uses hard sales CTAs.",
+  "banned_words": ["moon", "guys", "game-changer", "revolutionary", "disrupt"],
+  "sentence_length": "Short, clear sentences. Rarely more than 15-18 words each. Uses line breaks generously for readability.",
+  "example_posts": [
+    "Most people think blockchain is just about crypto prices.\n\nIt's not. It's a new way to prove ownership without needing a middleman to vouch for you.\n\nThat idea alone is bigger than any coin.",
+    "Blockchain adoption in Kenya isn't about speculation anymore.\n\nIt's showing up in remittances, land records, and supply chains.\n\nThe boring use cases are usually the ones that stick.",
+    "You don't need to understand every technical detail of blockchain to use it well.\n\nYou just need to understand what problem it solves for you.\n\nStart there, not with the jargon."
+  ]
+}
